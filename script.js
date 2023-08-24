@@ -1,4 +1,5 @@
 const h1 = document.querySelector('h1')
+const h2 = document.querySelector('h2')
 
 
 function maquinaDeEscrever(event){
@@ -12,3 +13,4 @@ function maquinaDeEscrever(event){
 }
 
 maquinaDeEscrever(h1)
+maquinaDeEscrever(h2)
